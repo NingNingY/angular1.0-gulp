@@ -10,6 +10,9 @@
               <li class="text-uppercase" role="presentation">
                 <router-link to="/about"><strong>about</strong></router-link>
               </li>
+               <li class="text-uppercase" role="presentation">
+                <router-link to="/filter"><strong>filter</strong></router-link>
+              </li>
             </ul>
         </div>
       </div>
@@ -23,7 +26,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 #app {
 
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
