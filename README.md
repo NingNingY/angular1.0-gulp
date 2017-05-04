@@ -1,6 +1,6 @@
 # y
 
-> 项目地址https://ningningy.github.io/simple-pages/[https://ningningy.github.io/simple-pages/]
+> 项目地址[https://ningningy.github.io/simple-pages/](https://ningningy.github.io/simple-pages/)
 
 ## Build Setup
 
